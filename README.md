@@ -61,4 +61,5 @@ Hasilnya seperti gambar berikut Terakhir coba running dengan perintah php artisa
 
 11.	Buatlah akun dengan cara register, lalu ubah otorisasi antara admin, guest, author, dan akun yang diblokir (banned).
 
+![image](https://github.com/user-attachments/assets/84fe050f-f840-42d2-96c6-8c73b3513dc1)
 
