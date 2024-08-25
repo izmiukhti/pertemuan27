@@ -28,6 +28,11 @@ Hasilnya seperti gambar berikut Terakhir coba running dengan perintah php artisa
 ![image](https://github.com/user-attachments/assets/b98ea87d-0947-423d-867b-9b77faf79481)
 
 10.	Coba login dengan akun admin, pelajari setiap menu dan tampilan yang ada.
-![image](https://github.com/user-attachments/assets/c9a71502-1b0b-4cab-91da-fb2df6fc6672)
+![image](https://github.com/user-attachments/assets/50ad00ac-c170-4bca-a1b0-de60e041e6e9)
+
 
 11.	Buatlah akun dengan cara register, lalu ubah otorisasi antara admin, guest, author, dan akun yang diblokir (banned).
+![image](https://github.com/user-attachments/assets/bdef0466-5ffc-4d42-a776-7174bdc3f6d7)
+![image](https://github.com/user-attachments/assets/1d3dc6b7-ff2e-4a6b-8184-21c34177145e)
+
+
