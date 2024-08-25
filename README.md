@@ -1,3 +1,5 @@
+TUGAS 27
+
 A.	PRAKTIKUM I
 1.	Kita buat project baru dengan mengetik perintah berikut pada Terminal atau CMD composer create-project laravel/laravel:^10.0 laravel-auth-app
    
