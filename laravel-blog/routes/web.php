@@ -4,6 +4,7 @@ use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\CommentController;
 use App\Http\Controllers\ReadmeController;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\ArticleController;
 use Illuminate\Support\Facades\Route;
 use App\Models\Post;
 
@@ -28,6 +29,8 @@ Route::get('/', function () {
 Route::resource('posts', PostController::class);
 Route::post('/posts/{post}/publish', [PostController::class, 'publish'])->name('posts.publish');
 Route::post('/posts/{post}/unpublish', [PostController::class, 'unpublish'])->name('posts.unpublish');
+
+Route::resource('articles', ArticleController::class);
 
 Route::resource('comments', CommentController::class)->only([
     'edit',
